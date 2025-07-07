@@ -8,7 +8,7 @@ enableRobotsTXT = true
   name = "Welcome to my blog. I build software using Java"
   bio = """Here I post Java code snippets and write about benefits of functional approach.
 
-Contact me - maybe I can build something for you."""
+Contact me - I can build a product for you."""
   color = "linen"
   github = "vshneer"
   linkedin = "victor-shneer"
