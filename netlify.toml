@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --baseURL https://686baeda5ed8490008bde258--harmonious-mooncake-8827cc.netlify.app/"
+  command = "hugo --baseURL $BASE_URL"
 
 [context.production.environment]
   HUGO_VERSION = "0.121.1"
