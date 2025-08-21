@@ -1,11 +1,10 @@
 languageCode = "en-us"
-title = "Holitica"
+title = "Software. Data. Design. People"
 theme = "paper"
 enableRobotsTXT = true
 
 [params]
-  name = "We connect software, data, design, and people"
-  bio = "team@holitica.it"
+  name = "Victor Shnaier. I build Software"
+  bio = "victor@holitica.it"
   color = "linen"
-  github = "vshneer"
   linkedin = "victor-shneer"
