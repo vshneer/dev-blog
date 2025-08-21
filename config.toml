@@ -5,9 +5,11 @@ enableRobotsTXT = true
 
 [params]
   name = "My name is Victor Shnaier. I build Software."
-  bio = """Fullstack development, UI/UX, DevOps, MLOps 
-  Building intelligent systems that connect data, design, and people
-  victor@holitica.it"""
+  bio = """
+Fullstack development, UI/UX, DevOps, MLOps 
+Building intelligent systems that connect data, design, and people
+victor@holitica.it
+"""
   color = "linen"
   github = "vshneer"
   linkedin = "victor-shneer"
