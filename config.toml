@@ -4,7 +4,7 @@ theme = "paper"
 enableRobotsTXT = true
 
 [params]
-  name = "Victor Shnaier. I build software"
+  name = "Victor Shnaier"
   bio = "victor@holitica.it"
   color = "linen"
   linkedin = "victor-shneer"
